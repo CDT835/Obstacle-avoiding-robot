@@ -1,0 +1,14 @@
+Các bước lắp đặt:
+1. Trước tiên lắp hết các ống trụ theo đúng chiều cao.
+2. Lắp 2 động cơ, để ý đúng chiều. Phần dây của động cơ sẽ hướng vào trong.
+3. Lắp mạch cầu H L9110s.
+4. Đi dây động cơ vào mạch cầu H. Lưu ý đúng màu sắc, thứ tự dây khi cắm vào L9110. 
+5. Lắp board mở rộng arduino. 
+6. Cắm dây từ board mở rộng arduino vào L9110. Lưu ý: màu đỏ cắm vào VCC của L9110, dây còn lại cắm vào GND.
+	Đi dây từ L9110 sang board mở rộng arduino. 
+7. Lắp động cơ servo
+8. Lắp khung cảm biến siêu âm và đi dây vào board mở rộng arduino. 
+9. Gắn 2 đĩa encode vào động cơ, sau đó gắn 2 cảm biến encoder và đi dây. 
+10. Gắn đế pin
+11. Gắn bánh đa hướng và 2 bánh chủ động. 
+12. Kiểm tra kỹ lại xem đã đấu nối đúng chưa. 
